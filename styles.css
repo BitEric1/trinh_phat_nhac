@@ -57,6 +57,11 @@
     color: var(--primary-color);
     font-size: 12px;
   }
+
+  header h5 {
+    color: aqua;
+    font-size: 12px;
+  }
   
   header h2 {
     color: var(--text-color);
